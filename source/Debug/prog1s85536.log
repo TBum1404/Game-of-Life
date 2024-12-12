@@ -1,0 +1,6 @@
+﻿  main.c
+C:\StudiumLokalPc\prog1s85536\main.c(98,16): warning C4047: "return": Anzahl der Dereferenzierungen bei "char" und "char (*)[10]" unterschiedlich
+C:\StudiumLokalPc\prog1s85536\main.c(218,16): warning C4047: "return": Anzahl der Dereferenzierungen bei "char" und "char (*)[10]" unterschiedlich
+C:\StudiumLokalPc\prog1s85536\main.c(192,6): warning C4101: "temp": Unreferenzierte lokale Variable
+C:\StudiumLokalPc\prog1s85536\main.c(169): warning C4715: "zufall": Nicht alle Codepfade geben einen Wert zurück.
+  prog1s85536.vcxproj -> C:\StudiumLokalPc\prog1s85536\Debug\prog1s85536.exe
